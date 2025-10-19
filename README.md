@@ -14,6 +14,8 @@ I build high-performance rendering systems and game mechanics from scratch
 <a href="https://github.com/mustafa-bektas/Volumetrics"><img src="volumetrics.gif" width="750" alt="Volumetric Clouds System"></a>
 <a href="https://github.com/mustafa-bektas/AbilitySystemFramework"><img src="abilitysystem.gif" width="750" alt="Ability System Framework"></a>
 <a href="https://github.com/mustafa-bektas/PingPong"><img src="pong.gif" width="750" alt="Ping Pong"></a>
+<a href="https://github.com/mustafa-bektas/TacticalAIArena"><img src="ai_battle.gif" width="750" alt="Tactical AI Arena"></a>
+
 </br>
 </div>
 
